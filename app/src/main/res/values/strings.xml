@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error_parsing">Invalid operators or result can not be calculated</string>
+    <string name="number0" translatable="false">0</string>
+    <string name="number1" translatable="false">1</string>
+    <string name="number2" translatable="false">2</string>
+    <string name="number3" translatable="false">3</string>
+    <string name="number4" translatable="false">4</string>
+    <string name="number5" translatable="false">5</string>
+    <string name="number6" translatable="false">6</string>
+    <string name="number7" translatable="false">7</string>
+    <string name="number8" translatable="false">8</string>
+    <string name="number9" translatable="false">9</string>
+    <string name="functionSin" translatable="false">sin</string>
+    <string name="functionCos" translatable="false">cos</string>
+    <string name="functionMul" translatable="false">*</string>
+    <string name="functionDiv" translatable="false">/</string>
+    <string name="functionMin" translatable="false">-</string>
+    <string name="functionPlus" translatable="false">+</string>
+    <string name="functionSqr" translatable="false">x^2</string>
+    <string name="functionDel" translatable="false">Del</string>
+    <string name="functionClr" translatable="false">C</string>
+    <string name="functionOP" translatable="false">(</string>
+    <string name="functionCP" translatable="false">)</string>
+    <string name="functionDot" translatable="false">.</string>
+    <string name="functionEqual" translatable="false">=</string>
+    <string name="functionSqrt" translatable="false">√</string>
+</resources>

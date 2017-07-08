@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "ru.omgtu.calculator"
+        applicationId "ru.ivt.calculator"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
